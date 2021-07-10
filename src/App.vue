@@ -29,7 +29,7 @@
         productList:[
           {
             id:1,
-            title:'MackBook Pro x asdf',
+            title:'MackBook Pro x asd faşsdfjaşlsfjdlkşjalsşkf',
             price:100,
             count:10,
             description:'Aciklama 1',
