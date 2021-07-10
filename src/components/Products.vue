@@ -26,6 +26,17 @@ export default Vue.extend({
         margin-bottom: 7px;
     }
     .products:hover{
-        border: 2px solid tomato;
+        border: 2px solid rgba(143,12,75,1);
+    }
+    #sepeteEkle{
+        background-color: rgba(143,12,75,0.5);
+        border: 2px solid rgba(143,12,75,1);
+        color:rgb(241, 229, 235);
+    }
+    #sepeteEkle:hover{
+        background-color: rgba(143,12,75,0.8);
+    }
+    #sepeteEkle:active{
+        background-color: rgba(143,12,75,1);
     }
 </style>
